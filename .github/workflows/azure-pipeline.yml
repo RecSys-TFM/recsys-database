@@ -22,9 +22,6 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
@@ -39,7 +36,7 @@ jobs:
         uses: microsoft/setup-msbuild@v1.1
         with:
           # Folder location of where vswhere.exe is located if a self-hosted agent
-          vswhere-path: recsys/inwellrt01sqldb.sln# optional
+          #vswhere-path: 'recsys/inwellrt01sqldb.sln'
 #           # Version of Visual Studio to search; defaults to latest if not specified
 #           vs-version: # optional
 #           # Enable searching for pre-release versions of Visual Studio/MSBuild
