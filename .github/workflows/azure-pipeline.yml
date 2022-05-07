@@ -32,9 +32,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           
-      - name: setup-msbuild
+      - name: setup-msbuild to PATH
         uses: microsoft/setup-msbuild@v1.1
         with:
             msbuild-architecture: "x64"
-
-      
