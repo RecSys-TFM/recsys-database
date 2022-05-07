@@ -1,0 +1,10 @@
+C:\Users\smmanrrique\source\repos\RecSys-TFM\recsys-database\recsys\bin\Debug\recsys.dacpac
+C:\Users\smmanrrique\source\repos\RecSys-TFM\recsys-database\recsys\bin\Debug\recsys.dll
+C:\Users\smmanrrique\source\repos\RecSys-TFM\recsys-database\recsys\bin\Debug\recsys.pdb
+C:\Users\smmanrrique\source\repos\RecSys-TFM\recsys-database\recsys\obj\Debug\recsys.sqlproj.AssemblyReference.cache
+C:\Users\smmanrrique\source\repos\RecSys-TFM\recsys-database\recsys\obj\Debug\Model.xml
+C:\Users\smmanrrique\source\repos\RecSys-TFM\recsys-database\recsys\obj\Debug\refactor.xml
+C:\Users\smmanrrique\source\repos\RecSys-TFM\recsys-database\recsys\obj\Debug\postdeploy.sql
+C:\Users\smmanrrique\source\repos\RecSys-TFM\recsys-database\recsys\obj\Debug\predeploy.sql
+C:\Users\smmanrrique\source\repos\RecSys-TFM\recsys-database\recsys\obj\Debug\recsys.dll
+C:\Users\smmanrrique\source\repos\RecSys-TFM\recsys-database\recsys\obj\Debug\recsys.pdb
